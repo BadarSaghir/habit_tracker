@@ -9,7 +9,7 @@ USERNAME = "badar"
 TOKEN = "badardani11"
 day = datetime.datetime.now()
 date_str = str(day.year) + str(day.month) + str(day.day)
-quantity = "1"
+quantity = "5"
 
 # param = {
 #     "token": TOKEN,
